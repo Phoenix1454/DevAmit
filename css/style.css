@@ -350,7 +350,7 @@ header {
 }
 
 .service {
-    max-width: 500px;
+    max-width: 300px;
     margin: 0 auto;
 }
 
@@ -375,6 +375,9 @@ header {
 
 .about-me__img {
     box-shadow: var(--bs);
+    width: 200px;
+    height: 400px;
+    object-fit: cover;
 }
 
 @media (min-width: 600px) {
