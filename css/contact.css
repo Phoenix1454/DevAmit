@@ -8,7 +8,7 @@
 body{
   min-height: 100vh;
   width: 100%;
-  background: #c8e8e9;
+  background: rgb(37, 36, 36);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -51,7 +51,7 @@ body{
 }
 .content .left-side .details i{
   font-size: 30px;
-  color: #3e2093;
+  color: #42e1e1;
   margin-bottom: 10px;
 }
 .content .left-side .details .topic{
@@ -72,7 +72,7 @@ body{
 .content .right-side .topic-text{
   font-size: 23px;
   font-weight: 600;
-  color: #3e2093;
+  color: #42e1e1;
 }
 .right-side .input-box{
   height: 50px;
@@ -86,7 +86,7 @@ body{
   border: none;
   outline: none;
   font-size: 16px;
-  background: #F0F1F8;
+  background: #daecec;
   border-radius: 6px;
   padding: 0 15px;
   resize: none;
@@ -108,12 +108,12 @@ body{
   border: none;
   padding: 8px 16px;
   border-radius: 6px;
-  background: #3e2093;
+  background: #9bd8f0;
   cursor: pointer;
   transition: all 0.3s ease;
 }
 .button input[type="button"]:hover{
-  background: #5029bc;
+  background: #42e1e1;
 }
 
 @media (max-width: 950px) {

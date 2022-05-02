@@ -288,6 +288,7 @@ header {
 
 .intro {
     position: relative;
+    /* padding: 100px; */
 }
 
 .intro__img {
@@ -514,7 +515,7 @@ header {
 }
 
 .portfolio-item-individual p {
-    max-width: 600px;
+    max-width: 900px;
     margin-left: auto;
     margin-right: auto;
 }
